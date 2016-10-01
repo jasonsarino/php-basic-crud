@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(0);
 define("host", 		"localhost");
 define("username", 	"root");
 define("password", 	"");
