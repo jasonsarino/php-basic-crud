@@ -1,4 +1,5 @@
 <?php
+die('hehehehe');
 error_reporting(0);
 define("host", 		"localhost");
 define("username", 	"root");
